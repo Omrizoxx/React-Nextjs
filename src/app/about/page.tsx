@@ -22,11 +22,11 @@ export default function About() {
             <div>
                 <h2 className="text-2xl font-semibold text-gray-700 mb-4">Background</h2>
                 <p className="text-gray-600 mb-4">
-                I'm a passionate developer with experience in building modern web applications. 
+                I&apos;m a passionate developer with experience in building modern web applications. 
                 I enjoy solving complex problems and creating intuitive user experiences.
                 </p>
                 <p className="text-gray-600">
-                When I'm not coding, you can find me exploring new technologies, contributing to open source, 
+                When I&apos;m not coding, you can find me exploring new technologies, contributing to open source, 
                 or enjoying outdoor activities.
                 </p>
             </div>
