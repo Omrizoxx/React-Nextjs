@@ -8,7 +8,7 @@ export default function Home() {
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="md:w-1/2 mb-8 md:mb-0">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
-              Hi, I'm <span className="text-blue-600">Omar Adan</span>
+              Hi, I&apos;m <span className="text-blue-600">Omar Adan</span>
             </h1>
             <p className="text-xl text-gray-600 mb-6">
               A passionate developer specializing in modern web technologies.
